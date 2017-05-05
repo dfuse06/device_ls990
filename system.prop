@@ -1,6 +1,3 @@
-# Bluetooth
-qcom.bluetooth.soc=rome
-
 # Radio
 rild.libpath=/vendor/lib/libril-qc-qmi-1.so
 telephony.lteOnGsmDevice=1
